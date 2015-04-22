@@ -1,0 +1,2 @@
+# funkscala
+Learning Scala
