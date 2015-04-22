@@ -1,0 +1,6 @@
+*.class
+
+# sbt specific
+.history
+target/
+project
